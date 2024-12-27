@@ -37,7 +37,7 @@ A modern task management application built with Next.js and TypeScript, featurin
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/username/todo-frontend.git
+git clone https://github.com/DevHarmeet/todo-frontend.git
 ```
 
 2. Install dependencies:
